@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/go42-dev/go42x/0c8673d6f9ee2b7f41cf5857c58a2490005bd93a/assets/agentenv/schemas/journal-entry.schema.json",
+  "version": 2,
+  "id": "20261123-journal-persistence-test-239d",
+  "title": "Journal persistence test",
+  "tags": [
+    "test",
+    "ci"
+  ],
+  "keep": false,
+  "created_at": "2026-11-23T14:40:21Z",
+  "updated_at": "2026-11-23T14:40:30Z",
+  "runtime": "awmg",
+  "refs": {
+    "branch": "master",
+    "commit": "9ee0e56d3104623699531a5296e883f47ae27715",
+    "issue": "https://github.com/go42-dev/go42x/issues/82"
+  }
+}
