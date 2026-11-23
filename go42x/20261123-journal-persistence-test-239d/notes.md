@@ -32,3 +32,5 @@ Confirmed no existing entry referenced this issue before creation.
 
 Entry ID: `20261123-journal-persistence-test-239d`.
 Issue: https://github.com/go42-dev/go42x/issues/82
+
+Run 2 continued this existing journal entry and found run 1's note: "Run 1 created this journal entry."
