@@ -31,3 +31,5 @@ Run 2 should locate and continue this entry using the issue reference.
 ## Results
 
 <!-- The files and links that matter, such as reports or pull requests. -->
+
+Run 2 continued this entry for issue #83 and found the persisted note: "Run 1 created this entry."
